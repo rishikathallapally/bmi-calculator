@@ -2,6 +2,10 @@
 
 A simple and responsive BMI Calculator built using React and Tailwind CSS.
 
+## Live Demo 
+
+[Click Here](https://rishikathallapally.github.io/bmi-calculator/)
+
 ## Features
 
 - Calculate BMI using weight and height.
